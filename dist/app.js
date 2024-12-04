@@ -32,3 +32,4 @@ app.use(function (req, res) {
 app.listen(PORT, function () {
     console.log("Server is running on http://localhost:".concat(PORT));
 });
+//# sourceMappingURL=app.js.map

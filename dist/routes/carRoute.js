@@ -166,3 +166,4 @@ router.delete('/:id', function (req, res, next) { return __awaiter(void 0, void 
     });
 }); });
 exports.default = router;
+//# sourceMappingURL=carRoute.js.map

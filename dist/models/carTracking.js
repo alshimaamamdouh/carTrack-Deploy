@@ -41,3 +41,4 @@ var CarTrackingSchema = new mongoose_1.Schema({
     date: { type: Date, required: true, default: Date.now },
 });
 exports.default = (0, mongoose_1.model)('CarTracking', CarTrackingSchema);
+//# sourceMappingURL=carTracking.js.map

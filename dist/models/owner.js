@@ -6,3 +6,4 @@ var OwnerSchema = new mongoose_1.Schema({
     phone: { type: String, required: true },
 });
 exports.default = (0, mongoose_1.model)('Owner', OwnerSchema);
+//# sourceMappingURL=owner.js.map

@@ -242,3 +242,4 @@ router.post('/profile', tokenAuth_1.default, function (req, res) { return __awai
     });
 }); });
 exports.default = router;
+//# sourceMappingURL=userRoute.js.map

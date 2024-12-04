@@ -22,3 +22,4 @@ var tokenAuth = function (req, res, next) {
     }
 };
 exports.default = tokenAuth;
+//# sourceMappingURL=tokenAuth.js.map

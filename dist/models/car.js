@@ -42,3 +42,4 @@ var CarSchema = new mongoose_1.Schema({
     ownerId: { type: mongoose_1.default.Schema.Types.ObjectId, ref: 'Owner', required: true },
 });
 exports.default = (0, mongoose_1.model)('Car', CarSchema);
+//# sourceMappingURL=car.js.map

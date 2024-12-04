@@ -143,3 +143,4 @@ router.delete('/:id', function (req, res, next) { return __awaiter(void 0, void 
     });
 }); });
 exports.default = router;
+//# sourceMappingURL=ownerRoute.js.map
